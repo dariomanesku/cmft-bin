@@ -1,4 +1,5 @@
 [cmft](https://github.com/dariomanesku/cmft) - cubemap filtering tool
+=====================================================================
 
 This repo is only for hosting binary files. Check all the details here: [cmft](https://github.com/dariomanesku/cmft).
 
